@@ -11,3 +11,7 @@ var freezerTemp = 0;
 var iceMaker = true;
 var doubleFreezer = false;
 var externalControls = true;
+
+var inFridge = ['spinach', 'salsa', 'juice'];
+var inFreezer = ['peas', 'ice cream', 'berries'];
+var onFridge = ['photos','magnets'];
