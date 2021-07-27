@@ -15,3 +15,9 @@ var externalControls = true;
 var inFridge = ['spinach', 'salsa', 'juice'];
 var inFreezer = ['peas', 'ice cream', 'berries'];
 var onFridge = ['photos','magnets'];
+
+var myFridge {
+  material: 'stainless steel';
+  size: 'large';
+  contains: 'food';
+}
